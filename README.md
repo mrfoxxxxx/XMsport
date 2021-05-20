@@ -92,9 +92,7 @@
 ## 特别鸣谢
 
 - [@Wenmoux](https://github.com/Wenmoux/checkbox) - 签到盒
-- [@chavyleung](https://github.com/chavyleung/scripts) - Chavy Scripts
-
-## 其他
+- [@chavyleung](https://github.com/chavyleung/scripts) - Chavy Script
 
 <details>
 <summary>更新日志（点击展开）</summary>
