@@ -20,7 +20,7 @@
 
 > ***您使用或者复制了本仓库且本人制作的任何脚本，则视为 `已接受` 此声明，请仔细阅读***
 
-## 详细文档
+## 详细文档6666
 
 - 文档地址: [https://sitoi.github.io/dailycheckin/](https://sitoi.github.io/dailycheckin/)
 - 国内地址: [https://sitoi.gitee.io/dailycheckin/](https://sitoi.gitee.io/dailycheckin/)
